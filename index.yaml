@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  chart-php-nginx:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2021-03-06T09:36:36.754536566-03:00"
+    description: A Helm chart for Kubernetes
+    digest: a055b5e293c850626cf1c5bf4df2559390672a2ffcaf12de0a9d5f7c6609c5a0
+    name: chart-php-nginx
+    type: application
+    urls:
+    - https://leonardobiffi.github.io/chart-php-nginx/releases/chart-php-nginx-1.0.0.tgz
+    version: 1.0.0
+generated: "2021-03-06T09:36:36.753991403-03:00"
